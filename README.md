@@ -1,5 +1,6 @@
 # Encryptix
 Internship Project on C++ Programming
+
 ##1. Number Guessing Game
    
    It is a simple console-based game where the user tries to guess a randomly generated number. The program provides feedback if the guess is too high or too low 
